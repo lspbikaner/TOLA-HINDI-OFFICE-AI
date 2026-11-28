@@ -1,0 +1,13 @@
+{
+  "name": "electron-local-project",
+  "version": "1.0.0",
+  "description": "Local tested Electron project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
